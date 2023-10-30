@@ -12,6 +12,7 @@ I want to express my gratitude to the dedicated and talented team I had the priv
 
 **● [Arxiv Paper](https://arxiv.org/abs/2310.17954)**
 
+```bibtex
 @misc{bilal2023multivessel,
       title={Multivessel Coronary Artery Segmentation and Stenosis Localisation using Ensemble Learning}, 
       author={Muhammad Bilal and Dinis Martinho and Reiner Sim and Adnan Qayyum and Hunaid Vohra and Massimo Caputo and Taofeek Akinosho and Sofiat Abioye and Zaheer Khan and Waleed Niaz and Junaid Qadir},
