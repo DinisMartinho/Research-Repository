@@ -1,6 +1,6 @@
 # ARCADE-MICCAI2023
 
-I had the privilege of participating in the ARCADE-MICCAI2023 (Automatic Region-based Coronary Artery Disease Diagnostics using X-ray Angiography Images) challenge, an event of paramount importance in the realm of coronary artery disease diagnosis. This challenge aims to revolutionize the field by benchmarking innovative solutions for the accurate segmentation of multivessel coronary arteries and the localization of potential stenotic lesions in X-ray coronary angiograms.
+I had the privilege of participating in the **[ARCADE-MICCAI2023](https://arcade.grand-challenge.org/)** (Automatic Region-based Coronary Artery Disease Diagnostics using X-ray Angiography Images) challenge, an event of paramount importance in the realm of coronary artery disease diagnosis. This challenge aims to revolutionize the field by benchmarking innovative solutions for the accurate segmentation of multivessel coronary arteries and the localization of potential stenotic lesions in X-ray coronary angiograms.
 
 The journey was far from easy, as the task presented numerous complexities. Analyzing coronary angiograms is not only vital but also inherently challenging due to the variability often encountered in medical imaging procedures. Our team dedicated itself to addressing these challenges, which are crucial for improving the accuracy of coronary artery disease diagnosis, guiding medical interventions, and enhancing the precision of stent injections in clinical settings.
 
