@@ -10,7 +10,7 @@ Our final solution was an ensemble model that combined the outputs of six baseli
 
 I want to express my gratitude to the dedicated and talented team I had the privilege to work with. Their collective effort and expertise were instrumental in our success, and I am immensely thankful for the invaluable knowledge and experience I gained from this endeavor.
 
-**● [Arxiv Paper](https://arxiv.org/abs/2310.17954)**
+**[● Arxiv Paper](https://arxiv.org/abs/2310.17954)**
 
 ```bibtex
 @misc{bilal2023multivessel,
