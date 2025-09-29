@@ -1,12 +1,12 @@
 # ARCADE-MICCAI2023
 
-I had the opportunity to participate in the **[ARCADE-MICCAI2023](https://arcade.grand-challenge.org/)** (Automatic Region-based Coronary Artery Disease Diagnostics using X-ray Angiography Images), a competition focused on advancing diagnostic tools for coronary artery disease. The goal was to develop methods for segmenting multivessel coronary arteries and detecting stenotic lesions in angiograms, tasks that are both clinically critical and technically complex.
+I took part in the **[ARCADE-MICCAI2023](https://arcade.grand-challenge.org/)** challenge (Automatic Region-based Coronary Artery Disease Diagnostics using X-ray Angiography Images). The task was to build methods for segmenting coronary arteries and detecting stenosis in angiograms-problems that are both important in the clinic and technically difficult.
 
-Working with angiography data is particularly challenging due to variability in imaging quality and interpretation. Our team tackled this by designing a five-stage pipeline: binary class pretraining, multivessel segmentation, fine-tuning with class frequency–weighted dataloaders, curriculum learning based on F1 scores, and adaptation to multi-view angiograms using a classifier-guided approach.
+Angiography data is tricky to work with because of differences in image quality and interpretation. Our team approached this with a five-stage pipeline: binary class pretraining, multivessel segmentation, class-frequency weighted training, curriculum learning based on F1 scores, and a classifier-guided step for handling multiple views.
 
-We ultimately built an ensemble of six baseline models, combining their outputs through weighted ensembling to boost performance. By refining misclassified cases, we achieved a mean F1 score of 37.69% for artery segmentation and 39.41% for stenosis localization, earning 5th place on both leaderboards.
+In the end, we combined six baseline models in an ensemble. Weighted averaging and case refinements gave us a mean F1 score of 37.69% for artery segmentation and 39.41% for stenosis localization. This placed us 5th on both leaderboards.
 
-I’m deeply grateful to my teammates for their dedication and expertise. This project not only strengthened my technical skills but also gave me invaluable insight into how machine learning can directly impact clinical decision-making.
+Big thanks to my teammates for their hard work-this project sharpened my technical skills and gave me a clearer sense of how machine learning can support medical decision-making.
 
 **[● Arxiv Paper](https://arxiv.org/abs/2310.17954)**
 
@@ -19,3 +19,4 @@ I’m deeply grateful to my teammates for their dedication and expertise. This p
       archivePrefix={arXiv},
       primaryClass={eess.IV}
 }
+```
